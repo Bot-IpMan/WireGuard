@@ -9,7 +9,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=Europe/Kiev
-      - SERVERURL=213.169.83.74
+      - SERVERURL=192.168.1.1
       - SERVERPORT=51820
       - PEERS=10
       - PEERDNS=8.8.8.8
